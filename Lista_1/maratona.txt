@@ -1,0 +1,4 @@
+Daniel	16000
+Luiz	40000
+Joisa	18000
+Leo	20000
