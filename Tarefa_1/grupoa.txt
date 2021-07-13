@@ -1,0 +1,11 @@
+trevazol
+19,ausente
+21,coceira
+16,ausente
+18,ausente
+10,coceira
+18,ausente
+13,ausente
+19,vermelhidao
+10,ausente
+15,ausente

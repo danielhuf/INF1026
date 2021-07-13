@@ -1,0 +1,11 @@
+placebo
+19,ausente
+21,coceira
+16,ausente
+18,ausente
+15,coceira
+18,ausente
+22,ausente
+19,vermelhidao
+14,coceira
+15,ausente

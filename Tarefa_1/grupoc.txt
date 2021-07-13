@@ -1,0 +1,11 @@
+drizol  trevazol
+19,ardencia
+19,coceira
+16,ausente
+17,ausente
+10,coceira
+14,ausente
+13,ardencia
+14,vermelhidao
+12,coceira
+15,vermelhidao

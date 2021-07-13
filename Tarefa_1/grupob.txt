@@ -1,0 +1,11 @@
+drizol
+9,vermelhidao
+21,coceira
+16,ausente
+8,ausente
+10,coceira
+18,ausente
+12,ausente
+17,vermelhidao
+11,coceira
+15,ausente
